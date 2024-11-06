@@ -1,0 +1,12 @@
+Implementation Status : Successful
+eLinx Version : 3.0 
+Top-level Entity Name : wires
+Total LUTs : 3 / 136160 (< 1 %)
+Total FFs : 0 / 0
+Total Memorys : 0 / 1200 (0%)
+Total DSPs : 0 / 48 (0%)
+Total PLLs : 0 / 8 (0%)
+Total CLBs : 2 / 13616 (< 1 %)
+Total Pins : 24 / 339 (7%)
+Min Slack : 1e+30
+EndPoints : 0

@@ -1,0 +1,41 @@
+2024-11-04 12:59:12,253 [INFO] Copyright (C) 2017-2024 eHiWAY Corporation
+2024-11-04 12:59:12,253 [INFO] Your use of eHiWAY Corporation's design tools, logic functions 
+2024-11-04 12:59:12,253 [INFO] and other software and tools, and its EMPP partner logic 
+2024-11-04 12:59:12,253 [INFO] functions, and any output files from any of the foregoing 
+2024-11-04 12:59:12,253 [INFO] (including device programming or simulation files), and any 
+2024-11-04 12:59:12,253 [INFO] associated documentation or information are expressly subject 
+2024-11-04 12:59:12,253 [INFO] to the terms and conditions of the eHiWAY Program License 
+2024-11-04 12:59:12,253 [INFO] Subscription Agreement, or other applicable license agreement, including, 
+2024-11-04 12:59:12,256 [INFO] without limitation, that your use is for the sole purpose of 
+2024-11-04 12:59:12,256 [INFO] programming logic devices manufactured by eHiWAY and sold by 
+2024-11-04 12:59:12,256 [INFO] eHiWAY or its authorized distributors.  Please refer to the 
+2024-11-04 12:59:12,256 [INFO] applicable agreement for further details.
+2024-11-04 12:59:12,256 [INFO] VENDOR "eHiWAY"
+
+2024-11-04 12:59:12,256 [INFO] PROGRAM "eLinx 64-Bit"
+2024-11-04 12:59:12,256 [INFO] VERSION "Version 3.0.7 Build 9/27/2024 Full Version"
+2024-11-04 12:59:13,165 [INFO] [ARC_Proc_5]:Deserialize device ends.
+2024-11-04 12:59:13,468 [INFO] [ARC_Proc_1]:Deserialize tiles ends.
+2024-11-04 12:59:13,593 [INFO] [UDM_Nlist_1]:Lauched netlist parser: Checking lpm/series_status_list/psf info...
+2024-11-04 12:59:13,593 [INFO] [UDM_Nlist_1]:Current top_level_entity name is wires.
+2024-11-04 12:59:13,593 [INFO] [UDM_Nlist_1]:Current series name is eHiChip6.
+2024-11-04 12:59:13,593 [INFO] [UDM_Nlist_1]:Current device name is EQ6HL130.
+2024-11-04 12:59:13,597 [INFO] [UDM_Nlist_15]:Begin parsing netlist...
+2024-11-04 12:59:13,603 [INFO] [UDM_Nlist_19]:Check netlist file is normal after Parse netlist file .
+2024-11-04 12:59:13,603 [INFO] [UDM_Nlist_20]:Parse netlist file success.
+2024-11-04 12:59:13,603 [INFO] [UDM_Nlist_21]:Netlist parser time consumed 0.015 second(s).
+2024-11-04 12:59:13,605 [INFO] [UDM_IP_1]:Begin parsing IP file(s)...
+2024-11-04 12:59:13,605 [INFO] [UDM_IP_1]:Parse IP file success.
+2024-11-04 12:59:13,605 [INFO] [UDM_IP_1]:parse_ip_specific complete.
+2024-11-04 12:59:13,605 [INFO] [UDM_Mem_1]:VQM have NOT memory 
+2024-11-04 12:59:13,605 [INFO] [UDM_Mem_1]:parse_mem_initial complete.
+2024-11-04 12:59:13,614 [INFO] udm drc.....
+
+2024-11-04 12:59:13,631 [INFO] [Packer_Proc_1]:Launched Packer...
+2024-11-04 12:59:28,476 [INFO] [Packer]:Pre-processing run-time is 0 seconds.
+2024-11-04 12:59:28,488 [INFO] [Packer_Proc_2]:Packer process is complete.
+2024-11-04 12:59:28,489 [INFO] [UDM_ICAP_1]:Parse Icap file success.
+2024-11-04 12:59:28,489 [INFO] [UDM_ICAP_1]:parse_icap_specific complete.
+2024-11-04 12:59:28,490 [INFO] Writing statistical info to file is completed
+2024-11-04 12:59:28,494 [INFO] [UDM_Save_0]:Save eLinx design check point(.ecp) complete.
+2024-11-04 12:59:28,544 [INFO] [UDM_Write_10]:Write cluster XML file complete.

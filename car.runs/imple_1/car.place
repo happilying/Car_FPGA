@@ -1,0 +1,27 @@
+#blk_name	x	y	z	index
+stratix_clb0	142	30	0	#0
+stratix_clb1	142	35	0	#1
+USART3_TX	input	T22		stratix_pad2	165	22	2	#2
+USART3_RX	output	T21		stratix_pad3	165	21	2	#3
+USART2_TX	input	L17		stratix_pad4	165	35	4	#4
+USART2_RX	output	K17		stratix_pad5	165	35	0	#5
+USART1_TX	input	AA21		stratix_pad6	165	4	4	#6
+USART1_RX	output	M19		stratix_pad7	165	34	2	#7
+UART_TX3	output	B1		stratix_pad8	0	91	2	#8
+UART_TX2	output	N19		stratix_pad9	165	27	4	#9
+UART_TX1	output	D1		stratix_pad10	0	84	2	#10
+UART_RX3	input	B2		stratix_pad11	0	92	4	#11
+UART_RX2	input	N22		stratix_pad12	165	26	2	#12
+UART_RX1	input	D2		stratix_pad13	0	85	4	#13
+U3	output	U3		stratix_pad14	0	30	2	#14
+U1	input	U1		stratix_pad15	0	29	0	#15
+Raidar_PWM	output	A2		stratix_pad16	17	101	0	#16
+ROUTER	output	L4		stratix_pad17	0	54	4	#17
+PWM_Raidar	input	W20		stratix_pad18	165	17	2	#18
+PWM_R	input	AA20		stratix_pad19	165	6	0	#19
+PWM_M_N	input	K22		stratix_pad20	165	30	2	#20
+PWM_M	input	M18		stratix_pad21	165	33	0	#21
+MORTOR_N	output	M20		stratix_pad22	165	27	0	#22
+MORTOR	output	L20		stratix_pad23	165	31	4	#23
+BUZZERS	output	N1		stratix_pad24	0	41	4	#24
+BUZZER	input	U22		stratix_pad25	165	20	0	#25

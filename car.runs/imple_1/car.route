@@ -1,0 +1,650 @@
+
+ net 0:USART1_TX
+  node 165_4_106: SOURCE (165, 4) id:2 capacity:1 cn:6
+  node 165_4_107: OPIN (165, 4) id:0 capacity:1
+  node 165_4_168: CHAN (165, 4) id:-1 capacity:1
+  node 164_4_8: CHAN (164, 4) id:-1 capacity:1
+  node 160_4_27: CHAN (160, 4) id:-1 capacity:1
+  node 156_4_8: CHAN (156, 4) id:-1 capacity:1
+  node 152_4_8: CHAN (152, 4) id:-1 capacity:1
+  node 148_4_27: CHAN (148, 4) id:-1 capacity:1
+  node 144_4_8: CHAN (144, 4) id:-1 capacity:1
+  node 140_4_8: CHAN (140, 4) id:-1 capacity:1
+  node 136_4_8: CHAN (136, 4) id:-1 capacity:1
+  node 132_4_27: CHAN (132, 4) id:-1 capacity:1
+  node 128_4_8: CHAN (128, 4) id:-1 capacity:1
+  node 124_4_8: CHAN (124, 4) id:-1 capacity:1
+  node 120_4_27: CHAN (120, 4) id:-1 capacity:1
+  node 116_4_8: CHAN (116, 4) id:-1 capacity:1
+  node 112_4_8: CHAN (112, 4) id:-1 capacity:1
+  node 108_4_8: CHAN (108, 4) id:-1 capacity:1
+  node 104_4_27: CHAN (104, 4) id:-1 capacity:1
+  node 100_4_8: CHAN (100, 4) id:-1 capacity:1
+  node 96_4_8: CHAN (96, 4) id:-1 capacity:1
+  node 92_4_27: CHAN (92, 4) id:-1 capacity:1
+  node 88_4_8: CHAN (88, 4) id:-1 capacity:1
+  node 84_4_8: CHAN (84, 4) id:-1 capacity:1
+  node 80_4_27: CHAN (80, 4) id:-1 capacity:1
+  node 76_4_8: CHAN (76, 4) id:-1 capacity:1
+  node 72_4_8: CHAN (72, 4) id:-1 capacity:1
+  node 68_4_27: CHAN (68, 4) id:-1 capacity:1
+  node 64_4_8: CHAN (64, 4) id:-1 capacity:1
+  node 60_4_8: CHAN (60, 4) id:-1 capacity:1
+  node 56_4_8: CHAN (56, 4) id:-1 capacity:1
+  node 52_4_27: CHAN (52, 4) id:-1 capacity:1
+  node 48_4_8: CHAN (48, 4) id:-1 capacity:1
+  node 44_4_8: CHAN (44, 4) id:-1 capacity:1
+  node 40_4_27: CHAN (40, 4) id:-1 capacity:1
+  node 36_4_8: CHAN (36, 4) id:-1 capacity:1
+  node 32_4_8: CHAN (32, 4) id:-1 capacity:1
+  node 28_4_8: CHAN (28, 4) id:-1 capacity:1
+  node 24_4_27: CHAN (24, 4) id:-1 capacity:1
+  node 20_4_8: CHAN (20, 4) id:-1 capacity:1
+  node 16_4_8: CHAN (16, 4) id:-1 capacity:1
+  node 12_4_27: CHAN (12, 4) id:-1 capacity:1
+  node 8_4_8: CHAN (8, 4) id:-1 capacity:1
+  node 4_4_8: CHAN (4, 4) id:-1 capacity:1
+  node 1_4_11: CHAN (1, 4) id:-1 capacity:1
+  node 1_8_11: CHAN (1, 8) id:-1 capacity:1
+  node 1_12_11: CHAN (1, 12) id:-1 capacity:1
+  node 1_16_11: CHAN (1, 16) id:-1 capacity:1
+  node 1_20_11: CHAN (1, 20) id:-1 capacity:1
+  node 1_24_11: CHAN (1, 24) id:-1 capacity:1
+  node 1_28_11: CHAN (1, 28) id:-1 capacity:1
+  node 1_32_11: CHAN (1, 32) id:-1 capacity:1
+  node 1_36_11: CHAN (1, 36) id:-1 capacity:1
+  node 1_40_11: CHAN (1, 40) id:-1 capacity:1
+  node 1_44_11: CHAN (1, 44) id:-1 capacity:1
+  node 1_48_11: CHAN (1, 48) id:-1 capacity:1
+  node 1_52_11: CHAN (1, 52) id:-1 capacity:1
+  node 1_56_11: CHAN (1, 56) id:-1 capacity:1
+  node 1_60_11: CHAN (1, 60) id:-1 capacity:1
+  node 1_64_11: CHAN (1, 64) id:-1 capacity:1
+  node 1_68_11: CHAN (1, 68) id:-1 capacity:1
+  node 1_72_11: CHAN (1, 72) id:-1 capacity:1
+  node 1_76_11: CHAN (1, 76) id:-1 capacity:1
+  node 1_80_11: CHAN (1, 80) id:-1 capacity:1
+  node 0_84_153: CHAN (0, 84) id:1 capacity:1
+  node 0_84_41: CHAN (0, 84) id:0 capacity:1
+  node 0_84_53: IPIN (0, 84) id:0 capacity:1
+  node 0_84_52: SINK (0, 84) id:5 capacity:1 cn:10
+
+ net 1:UART_RX1
+  node 0_85_32: SOURCE (0, 85) id:2 capacity:1 cn:13
+  node 0_85_33: OPIN (0, 85) id:0 capacity:1
+  node 1_85_9: CHAN (1, 85) id:-1 capacity:1
+  node 5_85_9: CHAN (5, 85) id:-1 capacity:1
+  node 9_85_9: CHAN (9, 85) id:-1 capacity:1
+  node 13_85_9: CHAN (13, 85) id:-1 capacity:1
+  node 17_85_9: CHAN (17, 85) id:-1 capacity:1
+  node 21_85_9: CHAN (21, 85) id:-1 capacity:1
+  node 25_85_9: CHAN (25, 85) id:-1 capacity:1
+  node 29_85_9: CHAN (29, 85) id:-1 capacity:1
+  node 33_85_9: CHAN (33, 85) id:-1 capacity:1
+  node 37_85_9: CHAN (37, 85) id:-1 capacity:1
+  node 41_85_9: CHAN (41, 85) id:-1 capacity:1
+  node 45_85_9: CHAN (45, 85) id:-1 capacity:1
+  node 49_85_9: CHAN (49, 85) id:-1 capacity:1
+  node 53_85_9: CHAN (53, 85) id:-1 capacity:1
+  node 57_85_9: CHAN (57, 85) id:-1 capacity:1
+  node 61_85_9: CHAN (61, 85) id:-1 capacity:1
+  node 65_85_9: CHAN (65, 85) id:-1 capacity:1
+  node 69_85_9: CHAN (69, 85) id:-1 capacity:1
+  node 73_85_9: CHAN (73, 85) id:-1 capacity:1
+  node 77_85_9: CHAN (77, 85) id:-1 capacity:1
+  node 81_85_9: CHAN (81, 85) id:-1 capacity:1
+  node 85_85_9: CHAN (85, 85) id:-1 capacity:1
+  node 89_85_9: CHAN (89, 85) id:-1 capacity:1
+  node 93_85_9: CHAN (93, 85) id:-1 capacity:1
+  node 97_85_9: CHAN (97, 85) id:-1 capacity:1
+  node 101_85_9: CHAN (101, 85) id:-1 capacity:1
+  node 105_85_9: CHAN (105, 85) id:-1 capacity:1
+  node 109_85_9: CHAN (109, 85) id:-1 capacity:1
+  node 113_85_9: CHAN (113, 85) id:-1 capacity:1
+  node 117_85_9: CHAN (117, 85) id:-1 capacity:1
+  node 121_85_9: CHAN (121, 85) id:-1 capacity:1
+  node 125_85_9: CHAN (125, 85) id:-1 capacity:1
+  node 129_85_9: CHAN (129, 85) id:-1 capacity:1
+  node 133_85_9: CHAN (133, 85) id:-1 capacity:1
+  node 137_85_9: CHAN (137, 85) id:-1 capacity:1
+  node 141_85_9: CHAN (141, 85) id:-1 capacity:1
+  node 145_85_9: CHAN (145, 85) id:-1 capacity:1
+  node 149_85_9: CHAN (149, 85) id:-1 capacity:1
+  node 153_85_9: CHAN (153, 85) id:-1 capacity:1
+  node 157_85_9: CHAN (157, 85) id:-1 capacity:1
+  node 161_85_9: CHAN (161, 85) id:-1 capacity:1
+  node 165_85_70: CHAN (165, 85) id:-1 capacity:1
+  node 165_81_70: CHAN (165, 81) id:-1 capacity:1
+  node 165_77_70: CHAN (165, 77) id:-1 capacity:1
+  node 165_73_70: CHAN (165, 73) id:-1 capacity:1
+  node 165_69_70: CHAN (165, 69) id:-1 capacity:1
+  node 165_65_70: CHAN (165, 65) id:-1 capacity:1
+  node 165_61_70: CHAN (165, 61) id:-1 capacity:1
+  node 165_57_70: CHAN (165, 57) id:-1 capacity:1
+  node 165_53_70: CHAN (165, 53) id:-1 capacity:1
+  node 165_49_70: CHAN (165, 49) id:-1 capacity:1
+  node 165_45_70: CHAN (165, 45) id:-1 capacity:1
+  node 165_41_70: CHAN (165, 41) id:-1 capacity:1
+  node 165_37_70: CHAN (165, 37) id:-1 capacity:1
+  node 165_34_74: CHAN (165, 34) id:-1 capacity:1
+  node 165_34_12: CHAN (165, 34) id:1 capacity:1
+  node 165_34_115: CHAN (165, 34) id:0 capacity:1
+  node 165_34_127: IPIN (165, 34) id:0 capacity:1
+  node 165_34_126: SINK (165, 34) id:5 capacity:1 cn:7
+
+ net 2:USART2_TX
+
+ net 3:UART_RX2
+  node 165_26_136: SOURCE (165, 26) id:2 capacity:1 cn:12
+  node 165_26_137: OPIN (165, 26) id:0 capacity:1
+  node 165_26_168: CHAN (165, 26) id:-1 capacity:1
+  node 164_26_8: CHAN (164, 26) id:-1 capacity:1
+  node 160_26_27: CHAN (160, 26) id:-1 capacity:1
+  node 156_26_8: CHAN (156, 26) id:-1 capacity:1
+  node 152_26_8: CHAN (152, 26) id:-1 capacity:1
+  node 148_26_27: CHAN (148, 26) id:-1 capacity:1
+  node 144_26_8: CHAN (144, 26) id:-1 capacity:1
+  node 140_26_8: CHAN (140, 26) id:-1 capacity:1
+  node 136_26_8: CHAN (136, 26) id:-1 capacity:1
+  node 132_26_27: CHAN (132, 26) id:-1 capacity:1
+  node 128_26_8: CHAN (128, 26) id:-1 capacity:1
+  node 124_26_8: CHAN (124, 26) id:-1 capacity:1
+  node 120_26_27: CHAN (120, 26) id:-1 capacity:1
+  node 116_26_8: CHAN (116, 26) id:-1 capacity:1
+  node 112_26_8: CHAN (112, 26) id:-1 capacity:1
+  node 108_26_8: CHAN (108, 26) id:-1 capacity:1
+  node 104_26_27: CHAN (104, 26) id:-1 capacity:1
+  node 100_26_8: CHAN (100, 26) id:-1 capacity:1
+  node 96_26_8: CHAN (96, 26) id:-1 capacity:1
+  node 92_26_27: CHAN (92, 26) id:-1 capacity:1
+  node 88_26_8: CHAN (88, 26) id:-1 capacity:1
+  node 84_26_8: CHAN (84, 26) id:-1 capacity:1
+  node 80_26_27: CHAN (80, 26) id:-1 capacity:1
+  node 76_26_8: CHAN (76, 26) id:-1 capacity:1
+  node 72_26_8: CHAN (72, 26) id:-1 capacity:1
+  node 68_26_27: CHAN (68, 26) id:-1 capacity:1
+  node 64_26_8: CHAN (64, 26) id:-1 capacity:1
+  node 60_26_8: CHAN (60, 26) id:-1 capacity:1
+  node 56_26_8: CHAN (56, 26) id:-1 capacity:1
+  node 52_26_27: CHAN (52, 26) id:-1 capacity:1
+  node 48_26_8: CHAN (48, 26) id:-1 capacity:1
+  node 44_26_8: CHAN (44, 26) id:-1 capacity:1
+  node 40_26_27: CHAN (40, 26) id:-1 capacity:1
+  node 36_26_8: CHAN (36, 26) id:-1 capacity:1
+  node 32_26_8: CHAN (32, 26) id:-1 capacity:1
+  node 28_26_8: CHAN (28, 26) id:-1 capacity:1
+  node 24_26_27: CHAN (24, 26) id:-1 capacity:1
+  node 20_26_8: CHAN (20, 26) id:-1 capacity:1
+  node 16_26_8: CHAN (16, 26) id:-1 capacity:1
+  node 12_26_27: CHAN (12, 26) id:-1 capacity:1
+  node 8_26_8: CHAN (8, 26) id:-1 capacity:1
+  node 4_26_8: CHAN (4, 26) id:-1 capacity:1
+  node 1_26_11: CHAN (1, 26) id:-1 capacity:1
+  node 0_30_153: CHAN (0, 30) id:1 capacity:1
+  node 0_30_41: CHAN (0, 30) id:0 capacity:1
+  node 0_30_53: IPIN (0, 30) id:0 capacity:1
+  node 0_30_52: SINK (0, 30) id:5 capacity:1 cn:14
+
+ net 4:USART3_TX
+  node 165_22_136: SOURCE (165, 22) id:2 capacity:1 cn:2
+  node 165_22_137: OPIN (165, 22) id:0 capacity:1
+  node 165_22_168: CHAN (165, 22) id:-1 capacity:1
+  node 164_22_8: CHAN (164, 22) id:-1 capacity:1
+  node 160_22_27: CHAN (160, 22) id:-1 capacity:1
+  node 156_22_8: CHAN (156, 22) id:-1 capacity:1
+  node 152_22_8: CHAN (152, 22) id:-1 capacity:1
+  node 148_22_27: CHAN (148, 22) id:-1 capacity:1
+  node 144_22_8: CHAN (144, 22) id:-1 capacity:1
+  node 140_22_8: CHAN (140, 22) id:-1 capacity:1
+  node 136_22_8: CHAN (136, 22) id:-1 capacity:1
+  node 132_22_27: CHAN (132, 22) id:-1 capacity:1
+  node 128_22_8: CHAN (128, 22) id:-1 capacity:1
+  node 124_22_8: CHAN (124, 22) id:-1 capacity:1
+  node 120_22_27: CHAN (120, 22) id:-1 capacity:1
+  node 116_22_8: CHAN (116, 22) id:-1 capacity:1
+  node 112_22_8: CHAN (112, 22) id:-1 capacity:1
+  node 108_22_8: CHAN (108, 22) id:-1 capacity:1
+  node 104_22_27: CHAN (104, 22) id:-1 capacity:1
+  node 100_22_8: CHAN (100, 22) id:-1 capacity:1
+  node 96_22_8: CHAN (96, 22) id:-1 capacity:1
+  node 92_22_27: CHAN (92, 22) id:-1 capacity:1
+  node 88_22_8: CHAN (88, 22) id:-1 capacity:1
+  node 84_22_8: CHAN (84, 22) id:-1 capacity:1
+  node 80_22_27: CHAN (80, 22) id:-1 capacity:1
+  node 76_22_8: CHAN (76, 22) id:-1 capacity:1
+  node 72_22_8: CHAN (72, 22) id:-1 capacity:1
+  node 68_22_27: CHAN (68, 22) id:-1 capacity:1
+  node 64_22_8: CHAN (64, 22) id:-1 capacity:1
+  node 60_22_8: CHAN (60, 22) id:-1 capacity:1
+  node 56_22_8: CHAN (56, 22) id:-1 capacity:1
+  node 52_22_27: CHAN (52, 22) id:-1 capacity:1
+  node 48_22_8: CHAN (48, 22) id:-1 capacity:1
+  node 44_22_8: CHAN (44, 22) id:-1 capacity:1
+  node 40_22_27: CHAN (40, 22) id:-1 capacity:1
+  node 36_22_8: CHAN (36, 22) id:-1 capacity:1
+  node 32_22_8: CHAN (32, 22) id:-1 capacity:1
+  node 28_22_8: CHAN (28, 22) id:-1 capacity:1
+  node 24_22_27: CHAN (24, 22) id:-1 capacity:1
+  node 20_22_8: CHAN (20, 22) id:-1 capacity:1
+  node 16_22_8: CHAN (16, 22) id:-1 capacity:1
+  node 12_22_27: CHAN (12, 22) id:-1 capacity:1
+  node 8_22_8: CHAN (8, 22) id:-1 capacity:1
+  node 4_22_8: CHAN (4, 22) id:-1 capacity:1
+  node 2_22_11: CHAN (2, 22) id:-1 capacity:1
+  node 2_26_11: CHAN (2, 26) id:-1 capacity:1
+  node 2_30_11: CHAN (2, 30) id:-1 capacity:1
+  node 2_34_11: CHAN (2, 34) id:-1 capacity:1
+  node 2_38_11: CHAN (2, 38) id:-1 capacity:1
+  node 2_42_11: CHAN (2, 42) id:-1 capacity:1
+  node 2_46_11: CHAN (2, 46) id:-1 capacity:1
+  node 2_50_11: CHAN (2, 50) id:-1 capacity:1
+  node 2_54_8: CHAN (2, 54) id:-1 capacity:1
+  node 1_54_11: CHAN (1, 54) id:-1 capacity:1
+  node 1_58_11: CHAN (1, 58) id:-1 capacity:1
+  node 1_62_11: CHAN (1, 62) id:-1 capacity:1
+  node 1_66_11: CHAN (1, 66) id:-1 capacity:1
+  node 1_70_11: CHAN (1, 70) id:-1 capacity:1
+  node 1_74_11: CHAN (1, 74) id:-1 capacity:1
+  node 1_78_11: CHAN (1, 78) id:-1 capacity:1
+  node 1_82_11: CHAN (1, 82) id:-1 capacity:1
+  node 1_86_11: CHAN (1, 86) id:-1 capacity:1
+  node 1_90_11: CHAN (1, 90) id:-1 capacity:1
+  node 0_91_153: CHAN (0, 91) id:1 capacity:1
+  node 0_91_41: CHAN (0, 91) id:0 capacity:1
+  node 0_91_53: IPIN (0, 91) id:0 capacity:1
+  node 0_91_52: SINK (0, 91) id:5 capacity:1 cn:8
+
+ net 5:UART_RX3
+  node 0_92_32: SOURCE (0, 92) id:2 capacity:1 cn:11
+  node 0_92_33: OPIN (0, 92) id:0 capacity:1
+  node 1_92_9: CHAN (1, 92) id:-1 capacity:1
+  node 5_92_9: CHAN (5, 92) id:-1 capacity:1
+  node 9_92_9: CHAN (9, 92) id:-1 capacity:1
+  node 13_92_9: CHAN (13, 92) id:-1 capacity:1
+  node 17_92_9: CHAN (17, 92) id:-1 capacity:1
+  node 21_92_9: CHAN (21, 92) id:-1 capacity:1
+  node 25_92_9: CHAN (25, 92) id:-1 capacity:1
+  node 29_92_9: CHAN (29, 92) id:-1 capacity:1
+  node 33_92_9: CHAN (33, 92) id:-1 capacity:1
+  node 37_92_9: CHAN (37, 92) id:-1 capacity:1
+  node 41_92_9: CHAN (41, 92) id:-1 capacity:1
+  node 45_92_9: CHAN (45, 92) id:-1 capacity:1
+  node 49_92_9: CHAN (49, 92) id:-1 capacity:1
+  node 53_92_9: CHAN (53, 92) id:-1 capacity:1
+  node 57_92_9: CHAN (57, 92) id:-1 capacity:1
+  node 61_92_9: CHAN (61, 92) id:-1 capacity:1
+  node 65_92_9: CHAN (65, 92) id:-1 capacity:1
+  node 69_92_9: CHAN (69, 92) id:-1 capacity:1
+  node 73_92_9: CHAN (73, 92) id:-1 capacity:1
+  node 77_92_9: CHAN (77, 92) id:-1 capacity:1
+  node 81_92_9: CHAN (81, 92) id:-1 capacity:1
+  node 85_92_9: CHAN (85, 92) id:-1 capacity:1
+  node 89_92_9: CHAN (89, 92) id:-1 capacity:1
+  node 93_92_9: CHAN (93, 92) id:-1 capacity:1
+  node 97_92_9: CHAN (97, 92) id:-1 capacity:1
+  node 101_92_9: CHAN (101, 92) id:-1 capacity:1
+  node 105_92_9: CHAN (105, 92) id:-1 capacity:1
+  node 109_92_9: CHAN (109, 92) id:-1 capacity:1
+  node 113_92_9: CHAN (113, 92) id:-1 capacity:1
+  node 117_92_9: CHAN (117, 92) id:-1 capacity:1
+  node 121_92_9: CHAN (121, 92) id:-1 capacity:1
+  node 125_92_9: CHAN (125, 92) id:-1 capacity:1
+  node 129_92_9: CHAN (129, 92) id:-1 capacity:1
+  node 133_92_9: CHAN (133, 92) id:-1 capacity:1
+  node 137_92_9: CHAN (137, 92) id:-1 capacity:1
+  node 141_92_9: CHAN (141, 92) id:-1 capacity:1
+  node 145_92_9: CHAN (145, 92) id:-1 capacity:1
+  node 149_92_9: CHAN (149, 92) id:-1 capacity:1
+  node 153_92_9: CHAN (153, 92) id:-1 capacity:1
+  node 157_92_9: CHAN (157, 92) id:-1 capacity:1
+  node 161_92_9: CHAN (161, 92) id:-1 capacity:1
+  node 165_92_70: CHAN (165, 92) id:-1 capacity:1
+  node 165_88_70: CHAN (165, 88) id:-1 capacity:1
+  node 165_84_70: CHAN (165, 84) id:-1 capacity:1
+  node 165_80_70: CHAN (165, 80) id:-1 capacity:1
+  node 165_76_70: CHAN (165, 76) id:-1 capacity:1
+  node 165_72_70: CHAN (165, 72) id:-1 capacity:1
+  node 165_68_70: CHAN (165, 68) id:-1 capacity:1
+  node 165_64_70: CHAN (165, 64) id:-1 capacity:1
+  node 165_60_70: CHAN (165, 60) id:-1 capacity:1
+  node 165_56_70: CHAN (165, 56) id:-1 capacity:1
+  node 165_52_70: CHAN (165, 52) id:-1 capacity:1
+  node 165_48_70: CHAN (165, 48) id:-1 capacity:1
+  node 165_44_70: CHAN (165, 44) id:-1 capacity:1
+  node 165_40_70: CHAN (165, 40) id:-1 capacity:1
+  node 165_36_70: CHAN (165, 36) id:-1 capacity:1
+  node 165_32_70: CHAN (165, 32) id:-1 capacity:1
+  node 165_28_70: CHAN (165, 28) id:-1 capacity:1
+  node 165_24_70: CHAN (165, 24) id:-1 capacity:1
+  node 165_21_74: CHAN (165, 21) id:-1 capacity:1
+  node 165_21_12: CHAN (165, 21) id:1 capacity:1
+  node 165_21_115: CHAN (165, 21) id:0 capacity:1
+  node 165_21_127: IPIN (165, 21) id:0 capacity:1
+  node 165_21_126: SINK (165, 21) id:5 capacity:1 cn:3
+
+ net 6:PWM_M
+  node 165_33_166: SOURCE (165, 33) id:2 capacity:1 cn:21
+  node 165_33_167: OPIN (165, 33) id:0 capacity:1
+  node 165_33_168: CHAN (165, 33) id:-1 capacity:1
+  node 164_33_8: CHAN (164, 33) id:-1 capacity:1
+  node 160_33_27: CHAN (160, 33) id:-1 capacity:1
+  node 156_33_8: CHAN (156, 33) id:-1 capacity:1
+  node 152_33_8: CHAN (152, 33) id:-1 capacity:1
+  node 148_33_27: CHAN (148, 33) id:-1 capacity:1
+  node 144_33_8: CHAN (144, 33) id:-1 capacity:1
+  node 142_33_10: CHAN (142, 33) id:-1 capacity:1
+  node 142_30_26: CHAN (142, 30) id:-1 capacity:1
+  node 142_30_264: CHAN (142, 30) id:1 capacity:1
+  node 142_30_105: CHAN (142, 30) id:0 capacity:1
+  node 142_30_134: IPIN (142, 30) id:0 capacity:1
+  node 142_30_133: SINK (142, 30) id:9 capacity:10 cn:0
+  node 142_30_264: CHAN (142, 30) id:1 capacity:1
+  node 142_30_101: CHAN (142, 30) id:0 capacity:1
+  node 142_30_135: IPIN (142, 30) id:1 capacity:1
+  node 142_30_133: SINK (142, 30) id:9 capacity:10 cn:0
+
+ net 7:PWM_M_N
+  node 165_30_136: SOURCE (165, 30) id:2 capacity:1 cn:20
+  node 165_30_137: OPIN (165, 30) id:0 capacity:1
+  node 165_30_168: CHAN (165, 30) id:-1 capacity:1
+  node 164_30_8: CHAN (164, 30) id:-1 capacity:1
+  node 160_30_27: CHAN (160, 30) id:-1 capacity:1
+  node 156_30_8: CHAN (156, 30) id:-1 capacity:1
+  node 152_30_8: CHAN (152, 30) id:-1 capacity:1
+  node 148_30_27: CHAN (148, 30) id:-1 capacity:1
+  node 144_30_8: CHAN (144, 30) id:-1 capacity:1
+  node 142_30_268: CHAN (142, 30) id:1 capacity:1
+  node 142_30_106: CHAN (142, 30) id:0 capacity:1
+  node 142_30_167: IPIN (142, 30) id:0 capacity:1
+  node 142_30_166: SINK (142, 30) id:12 capacity:10 cn:0
+  node 142_30_268: CHAN (142, 30) id:1 capacity:1
+  node 142_30_104: CHAN (142, 30) id:0 capacity:1
+  node 142_30_146: IPIN (142, 30) id:1 capacity:1
+  node 142_30_144: SINK (142, 30) id:10 capacity:10 cn:0
+
+ net 8:PWM_Raidar
+  node 165_17_136: SOURCE (165, 17) id:2 capacity:1 cn:18
+  node 165_17_137: OPIN (165, 17) id:0 capacity:1
+  node 165_17_168: CHAN (165, 17) id:-1 capacity:1
+  node 164_17_8: CHAN (164, 17) id:-1 capacity:1
+  node 160_17_27: CHAN (160, 17) id:-1 capacity:1
+  node 156_17_8: CHAN (156, 17) id:-1 capacity:1
+  node 152_17_8: CHAN (152, 17) id:-1 capacity:1
+  node 148_17_27: CHAN (148, 17) id:-1 capacity:1
+  node 144_17_8: CHAN (144, 17) id:-1 capacity:1
+  node 140_17_8: CHAN (140, 17) id:-1 capacity:1
+  node 136_17_8: CHAN (136, 17) id:-1 capacity:1
+  node 132_17_27: CHAN (132, 17) id:-1 capacity:1
+  node 128_17_8: CHAN (128, 17) id:-1 capacity:1
+  node 124_17_8: CHAN (124, 17) id:-1 capacity:1
+  node 120_17_27: CHAN (120, 17) id:-1 capacity:1
+  node 116_17_8: CHAN (116, 17) id:-1 capacity:1
+  node 112_17_8: CHAN (112, 17) id:-1 capacity:1
+  node 108_17_8: CHAN (108, 17) id:-1 capacity:1
+  node 104_17_27: CHAN (104, 17) id:-1 capacity:1
+  node 100_17_8: CHAN (100, 17) id:-1 capacity:1
+  node 96_17_8: CHAN (96, 17) id:-1 capacity:1
+  node 92_17_27: CHAN (92, 17) id:-1 capacity:1
+  node 88_17_8: CHAN (88, 17) id:-1 capacity:1
+  node 84_17_8: CHAN (84, 17) id:-1 capacity:1
+  node 80_17_27: CHAN (80, 17) id:-1 capacity:1
+  node 76_17_8: CHAN (76, 17) id:-1 capacity:1
+  node 72_17_8: CHAN (72, 17) id:-1 capacity:1
+  node 68_17_27: CHAN (68, 17) id:-1 capacity:1
+  node 64_17_8: CHAN (64, 17) id:-1 capacity:1
+  node 60_17_8: CHAN (60, 17) id:-1 capacity:1
+  node 56_17_8: CHAN (56, 17) id:-1 capacity:1
+  node 52_17_27: CHAN (52, 17) id:-1 capacity:1
+  node 48_17_8: CHAN (48, 17) id:-1 capacity:1
+  node 44_17_8: CHAN (44, 17) id:-1 capacity:1
+  node 40_17_27: CHAN (40, 17) id:-1 capacity:1
+  node 36_17_8: CHAN (36, 17) id:-1 capacity:1
+  node 32_17_8: CHAN (32, 17) id:-1 capacity:1
+  node 28_17_8: CHAN (28, 17) id:-1 capacity:1
+  node 24_17_27: CHAN (24, 17) id:-1 capacity:1
+  node 20_17_8: CHAN (20, 17) id:-1 capacity:1
+  node 17_17_11: CHAN (17, 17) id:-1 capacity:1
+  node 17_21_11: CHAN (17, 21) id:-1 capacity:1
+  node 17_25_11: CHAN (17, 25) id:-1 capacity:1
+  node 17_29_11: CHAN (17, 29) id:-1 capacity:1
+  node 17_33_11: CHAN (17, 33) id:-1 capacity:1
+  node 17_37_11: CHAN (17, 37) id:-1 capacity:1
+  node 17_41_11: CHAN (17, 41) id:-1 capacity:1
+  node 17_45_11: CHAN (17, 45) id:-1 capacity:1
+  node 17_49_11: CHAN (17, 49) id:-1 capacity:1
+  node 17_53_11: CHAN (17, 53) id:-1 capacity:1
+  node 17_57_11: CHAN (17, 57) id:-1 capacity:1
+  node 17_61_11: CHAN (17, 61) id:-1 capacity:1
+  node 17_65_11: CHAN (17, 65) id:-1 capacity:1
+  node 17_69_11: CHAN (17, 69) id:-1 capacity:1
+  node 17_73_11: CHAN (17, 73) id:-1 capacity:1
+  node 17_77_11: CHAN (17, 77) id:-1 capacity:1
+  node 17_81_11: CHAN (17, 81) id:-1 capacity:1
+  node 17_85_11: CHAN (17, 85) id:-1 capacity:1
+  node 17_89_11: CHAN (17, 89) id:-1 capacity:1
+  node 17_93_11: CHAN (17, 93) id:-1 capacity:1
+  node 17_97_11: CHAN (17, 97) id:-1 capacity:1
+  node 17_101_308: CHAN (17, 101) id:1 capacity:1
+  node 17_101_11: CHAN (17, 101) id:0 capacity:1
+  node 17_101_23: IPIN (17, 101) id:0 capacity:1
+  node 17_101_22: SINK (17, 101) id:5 capacity:1 cn:16
+
+ net 9:PWM_R
+  node 165_6_166: SOURCE (165, 6) id:2 capacity:1 cn:19
+  node 165_6_167: OPIN (165, 6) id:0 capacity:1
+  node 165_6_168: CHAN (165, 6) id:-1 capacity:1
+  node 164_6_8: CHAN (164, 6) id:-1 capacity:1
+  node 160_6_27: CHAN (160, 6) id:-1 capacity:1
+  node 156_6_8: CHAN (156, 6) id:-1 capacity:1
+  node 152_6_8: CHAN (152, 6) id:-1 capacity:1
+  node 148_6_27: CHAN (148, 6) id:-1 capacity:1
+  node 144_6_8: CHAN (144, 6) id:-1 capacity:1
+  node 140_6_8: CHAN (140, 6) id:-1 capacity:1
+  node 136_6_8: CHAN (136, 6) id:-1 capacity:1
+  node 132_6_27: CHAN (132, 6) id:-1 capacity:1
+  node 128_6_8: CHAN (128, 6) id:-1 capacity:1
+  node 124_6_8: CHAN (124, 6) id:-1 capacity:1
+  node 120_6_27: CHAN (120, 6) id:-1 capacity:1
+  node 116_6_8: CHAN (116, 6) id:-1 capacity:1
+  node 112_6_8: CHAN (112, 6) id:-1 capacity:1
+  node 108_6_8: CHAN (108, 6) id:-1 capacity:1
+  node 104_6_27: CHAN (104, 6) id:-1 capacity:1
+  node 100_6_8: CHAN (100, 6) id:-1 capacity:1
+  node 96_6_8: CHAN (96, 6) id:-1 capacity:1
+  node 92_6_27: CHAN (92, 6) id:-1 capacity:1
+  node 88_6_8: CHAN (88, 6) id:-1 capacity:1
+  node 84_6_8: CHAN (84, 6) id:-1 capacity:1
+  node 80_6_27: CHAN (80, 6) id:-1 capacity:1
+  node 76_6_8: CHAN (76, 6) id:-1 capacity:1
+  node 72_6_8: CHAN (72, 6) id:-1 capacity:1
+  node 68_6_27: CHAN (68, 6) id:-1 capacity:1
+  node 64_6_8: CHAN (64, 6) id:-1 capacity:1
+  node 60_6_8: CHAN (60, 6) id:-1 capacity:1
+  node 56_6_8: CHAN (56, 6) id:-1 capacity:1
+  node 52_6_27: CHAN (52, 6) id:-1 capacity:1
+  node 48_6_8: CHAN (48, 6) id:-1 capacity:1
+  node 44_6_8: CHAN (44, 6) id:-1 capacity:1
+  node 40_6_27: CHAN (40, 6) id:-1 capacity:1
+  node 36_6_8: CHAN (36, 6) id:-1 capacity:1
+  node 32_6_8: CHAN (32, 6) id:-1 capacity:1
+  node 28_6_8: CHAN (28, 6) id:-1 capacity:1
+  node 24_6_27: CHAN (24, 6) id:-1 capacity:1
+  node 20_6_8: CHAN (20, 6) id:-1 capacity:1
+  node 16_6_8: CHAN (16, 6) id:-1 capacity:1
+  node 12_6_27: CHAN (12, 6) id:-1 capacity:1
+  node 8_6_8: CHAN (8, 6) id:-1 capacity:1
+  node 4_6_8: CHAN (4, 6) id:-1 capacity:1
+  node 1_6_11: CHAN (1, 6) id:-1 capacity:1
+  node 1_10_11: CHAN (1, 10) id:-1 capacity:1
+  node 1_14_11: CHAN (1, 14) id:-1 capacity:1
+  node 1_18_11: CHAN (1, 18) id:-1 capacity:1
+  node 1_22_11: CHAN (1, 22) id:-1 capacity:1
+  node 1_26_2: CHAN (1, 26) id:-1 capacity:1
+  node 1_34_31: CHAN (1, 34) id:-1 capacity:1
+  node 1_38_31: CHAN (1, 38) id:-1 capacity:1
+  node 1_42_31: CHAN (1, 42) id:-1 capacity:1
+  node 1_46_31: CHAN (1, 46) id:-1 capacity:1
+  node 1_50_31: CHAN (1, 50) id:-1 capacity:1
+  node 0_54_147: CHAN (0, 54) id:1 capacity:1
+  node 0_54_11: CHAN (0, 54) id:0 capacity:1
+  node 0_54_23: IPIN (0, 54) id:0 capacity:1
+  node 0_54_22: SINK (0, 54) id:5 capacity:1 cn:17
+
+ net 10:BUZZER
+  node 165_20_166: SOURCE (165, 20) id:2 capacity:1 cn:25
+  node 165_20_167: OPIN (165, 20) id:0 capacity:1
+  node 165_20_168: CHAN (165, 20) id:-1 capacity:1
+  node 164_20_8: CHAN (164, 20) id:-1 capacity:1
+  node 160_20_27: CHAN (160, 20) id:-1 capacity:1
+  node 156_20_8: CHAN (156, 20) id:-1 capacity:1
+  node 152_20_8: CHAN (152, 20) id:-1 capacity:1
+  node 148_20_27: CHAN (148, 20) id:-1 capacity:1
+  node 144_20_8: CHAN (144, 20) id:-1 capacity:1
+  node 140_20_8: CHAN (140, 20) id:-1 capacity:1
+  node 136_20_8: CHAN (136, 20) id:-1 capacity:1
+  node 132_20_27: CHAN (132, 20) id:-1 capacity:1
+  node 128_20_8: CHAN (128, 20) id:-1 capacity:1
+  node 124_20_8: CHAN (124, 20) id:-1 capacity:1
+  node 120_20_27: CHAN (120, 20) id:-1 capacity:1
+  node 116_20_8: CHAN (116, 20) id:-1 capacity:1
+  node 112_20_8: CHAN (112, 20) id:-1 capacity:1
+  node 108_20_8: CHAN (108, 20) id:-1 capacity:1
+  node 104_20_27: CHAN (104, 20) id:-1 capacity:1
+  node 100_20_8: CHAN (100, 20) id:-1 capacity:1
+  node 96_20_8: CHAN (96, 20) id:-1 capacity:1
+  node 92_20_27: CHAN (92, 20) id:-1 capacity:1
+  node 88_20_8: CHAN (88, 20) id:-1 capacity:1
+  node 84_20_8: CHAN (84, 20) id:-1 capacity:1
+  node 80_20_27: CHAN (80, 20) id:-1 capacity:1
+  node 76_20_8: CHAN (76, 20) id:-1 capacity:1
+  node 72_20_8: CHAN (72, 20) id:-1 capacity:1
+  node 68_20_27: CHAN (68, 20) id:-1 capacity:1
+  node 64_20_8: CHAN (64, 20) id:-1 capacity:1
+  node 60_20_8: CHAN (60, 20) id:-1 capacity:1
+  node 56_20_8: CHAN (56, 20) id:-1 capacity:1
+  node 52_20_27: CHAN (52, 20) id:-1 capacity:1
+  node 48_20_8: CHAN (48, 20) id:-1 capacity:1
+  node 44_20_8: CHAN (44, 20) id:-1 capacity:1
+  node 40_20_27: CHAN (40, 20) id:-1 capacity:1
+  node 36_20_8: CHAN (36, 20) id:-1 capacity:1
+  node 32_20_8: CHAN (32, 20) id:-1 capacity:1
+  node 28_20_8: CHAN (28, 20) id:-1 capacity:1
+  node 24_20_27: CHAN (24, 20) id:-1 capacity:1
+  node 20_20_8: CHAN (20, 20) id:-1 capacity:1
+  node 16_20_8: CHAN (16, 20) id:-1 capacity:1
+  node 12_20_27: CHAN (12, 20) id:-1 capacity:1
+  node 8_20_8: CHAN (8, 20) id:-1 capacity:1
+  node 4_20_8: CHAN (4, 20) id:-1 capacity:1
+  node 2_20_11: CHAN (2, 20) id:-1 capacity:1
+  node 2_24_11: CHAN (2, 24) id:-1 capacity:1
+  node 2_28_11: CHAN (2, 28) id:-1 capacity:1
+  node 2_32_11: CHAN (2, 32) id:-1 capacity:1
+  node 2_36_11: CHAN (2, 36) id:-1 capacity:1
+  node 2_37_8: CHAN (2, 37) id:-1 capacity:1
+  node 1_37_11: CHAN (1, 37) id:-1 capacity:1
+  node 1_41_0: CHAN (1, 41) id:-1 capacity:1
+  node 0_41_147: CHAN (0, 41) id:1 capacity:1
+  node 0_41_11: CHAN (0, 41) id:0 capacity:1
+  node 0_41_23: IPIN (0, 41) id:0 capacity:1
+  node 0_41_22: SINK (0, 41) id:5 capacity:1 cn:24
+
+ net 11:U1
+  node 0_29_92: SOURCE (0, 29) id:2 capacity:1 cn:15
+  node 0_29_93: OPIN (0, 29) id:0 capacity:1
+  node 1_29_9: CHAN (1, 29) id:-1 capacity:1
+  node 5_29_9: CHAN (5, 29) id:-1 capacity:1
+  node 9_29_9: CHAN (9, 29) id:-1 capacity:1
+  node 13_29_9: CHAN (13, 29) id:-1 capacity:1
+  node 17_29_9: CHAN (17, 29) id:-1 capacity:1
+  node 21_29_9: CHAN (21, 29) id:-1 capacity:1
+  node 25_29_9: CHAN (25, 29) id:-1 capacity:1
+  node 29_29_9: CHAN (29, 29) id:-1 capacity:1
+  node 33_29_9: CHAN (33, 29) id:-1 capacity:1
+  node 37_29_9: CHAN (37, 29) id:-1 capacity:1
+  node 41_29_9: CHAN (41, 29) id:-1 capacity:1
+  node 45_29_9: CHAN (45, 29) id:-1 capacity:1
+  node 49_29_9: CHAN (49, 29) id:-1 capacity:1
+  node 53_29_9: CHAN (53, 29) id:-1 capacity:1
+  node 57_29_9: CHAN (57, 29) id:-1 capacity:1
+  node 61_29_9: CHAN (61, 29) id:-1 capacity:1
+  node 65_29_9: CHAN (65, 29) id:-1 capacity:1
+  node 69_29_9: CHAN (69, 29) id:-1 capacity:1
+  node 73_29_9: CHAN (73, 29) id:-1 capacity:1
+  node 77_29_9: CHAN (77, 29) id:-1 capacity:1
+  node 81_29_9: CHAN (81, 29) id:-1 capacity:1
+  node 85_29_9: CHAN (85, 29) id:-1 capacity:1
+  node 89_29_9: CHAN (89, 29) id:-1 capacity:1
+  node 93_29_9: CHAN (93, 29) id:-1 capacity:1
+  node 97_29_9: CHAN (97, 29) id:-1 capacity:1
+  node 101_29_9: CHAN (101, 29) id:-1 capacity:1
+  node 105_29_9: CHAN (105, 29) id:-1 capacity:1
+  node 109_29_9: CHAN (109, 29) id:-1 capacity:1
+  node 113_29_9: CHAN (113, 29) id:-1 capacity:1
+  node 117_29_9: CHAN (117, 29) id:-1 capacity:1
+  node 121_29_9: CHAN (121, 29) id:-1 capacity:1
+  node 125_29_9: CHAN (125, 29) id:-1 capacity:1
+  node 129_29_9: CHAN (129, 29) id:-1 capacity:1
+  node 133_29_9: CHAN (133, 29) id:-1 capacity:1
+  node 137_29_9: CHAN (137, 29) id:-1 capacity:1
+  node 141_29_9: CHAN (141, 29) id:-1 capacity:1
+  node 145_29_9: CHAN (145, 29) id:-1 capacity:1
+  node 149_29_9: CHAN (149, 29) id:-1 capacity:1
+  node 153_29_9: CHAN (153, 29) id:-1 capacity:1
+  node 157_29_9: CHAN (157, 29) id:-1 capacity:1
+  node 161_29_9: CHAN (161, 29) id:-1 capacity:1
+  node 165_29_34: CHAN (165, 29) id:-1 capacity:1
+  node 165_27_8: CHAN (165, 27) id:1 capacity:1
+  node 165_27_85: CHAN (165, 27) id:0 capacity:1
+  node 165_27_97: IPIN (165, 27) id:0 capacity:1
+  node 165_27_96: SINK (165, 27) id:5 capacity:1 cn:9
+
+ net 12:gnd
+
+ net 13:vcc
+
+ net 14:\MORTOR_N~0
+  node 142_30_201: SOURCE (142, 30) id:6 capacity:30 cn:0
+  node 142_30_203: OPIN (142, 30) id:1 capacity:5
+  node 142_30_213: OPIN (142, 30) id:1 capacity:1
+  node 143_30_9: CHAN (143, 30) id:-1 capacity:1
+  node 146_30_247: CHAN (146, 30) id:-1 capacity:1
+  node 151_30_9: CHAN (151, 30) id:-1 capacity:1
+  node 155_30_9: CHAN (155, 30) id:-1 capacity:1
+  node 158_30_247: CHAN (158, 30) id:-1 capacity:1
+  node 163_30_9: CHAN (163, 30) id:-1 capacity:1
+  node 165_30_70: CHAN (165, 30) id:-1 capacity:1
+  node 165_27_19: CHAN (165, 27) id:1 capacity:1
+  node 165_27_145: CHAN (165, 27) id:0 capacity:1
+  node 165_27_157: IPIN (165, 27) id:0 capacity:1
+  node 165_27_156: SINK (165, 27) id:5 capacity:1 cn:9
+
+ net 15:\MORTOR~0
+  node 142_30_201: SOURCE (142, 30) id:6 capacity:30 cn:0
+  node 142_30_202: OPIN (142, 30) id:0 capacity:5
+  node 142_30_212: OPIN (142, 30) id:0 capacity:1
+  node 143_30_13: CHAN (143, 30) id:-1 capacity:1
+  node 146_30_233: CHAN (146, 30) id:-1 capacity:1
+  node 151_30_13: CHAN (151, 30) id:-1 capacity:1
+  node 155_30_13: CHAN (155, 30) id:-1 capacity:1
+  node 158_30_233: CHAN (158, 30) id:-1 capacity:1
+  node 163_30_13: CHAN (163, 30) id:-1 capacity:1
+  node 165_30_43: CHAN (165, 30) id:-1 capacity:1
+  node 165_31_7: CHAN (165, 31) id:1 capacity:1
+  node 165_31_85: CHAN (165, 31) id:0 capacity:1
+  node 165_31_97: IPIN (165, 31) id:0 capacity:1
+  node 165_31_96: SINK (165, 31) id:5 capacity:1 cn:23
+
+ net 16:gnd_assign_replace_sig
+  node 142_35_201: SOURCE (142, 35) id:6 capacity:30 cn:1
+  node 142_35_202: OPIN (142, 35) id:0 capacity:5
+  node 142_35_212: OPIN (142, 35) id:0 capacity:1
+  node 143_35_13: CHAN (143, 35) id:-1 capacity:1
+  node 146_35_233: CHAN (146, 35) id:-1 capacity:1
+  node 151_35_13: CHAN (151, 35) id:-1 capacity:1
+  node 155_35_13: CHAN (155, 35) id:-1 capacity:1
+  node 158_35_233: CHAN (158, 35) id:-1 capacity:1
+  node 163_35_7: CHAN (163, 35) id:-1 capacity:1
+  node 165_35_18: CHAN (165, 35) id:1 capacity:1
+  node 165_35_145: CHAN (165, 35) id:0 capacity:1
+  node 165_35_157: IPIN (165, 35) id:0 capacity:1
+  node 165_35_156: SINK (165, 35) id:5 capacity:1 cn:4

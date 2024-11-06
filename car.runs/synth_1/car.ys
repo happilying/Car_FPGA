@@ -1,0 +1,5 @@
+#this script is auto-generted by generator_yosys_shells.py
+set DESIGN_PATH=D:/FPGA/car
+set prj_name=car
+read_verilog %DESIGN_PATH%/car.srcs/sources_1/new/wires.v
+synth_stratix -top wires -family eHiChip6 -vqm %DESIGN_PATH%/car.runs/synth_1/car.vqm

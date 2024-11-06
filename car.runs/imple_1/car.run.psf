@@ -1,0 +1,4 @@
+source $vecdir/car.srcs/constrs_1/new/car.edc
+set_global_assignment -name TARGET_CONSTRAINT_FILE $vecdir/car.srcs/constrs_1/new/car.edc
+set_global_assignment -name MANUAL_ROUTE 0
+set_global_assignment -name READ_ROUTING_FILE $vecdir/car.runs/imple_1/Incremental/car.route
