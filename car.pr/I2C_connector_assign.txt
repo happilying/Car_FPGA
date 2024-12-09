@@ -1,0 +1,3 @@
+S_SCL,M_SCL
+S_SDA,&we,!ack,M_SDA
+M_SDA,&we,!ack,S_SDA
