@@ -1,21 +1,112 @@
-set_location_assignment PIN_U22 -to BUZZER
+set_location_assignment PIN_D2 -to BL_RX
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to BL_RX
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to BL_RX
+set_location_assignment PIN_D1 -to BL_TX
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to BL_TX
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to BL_TX
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to BL_TX
+set_instance_assignment -name SLEW_TYPE FAST -to BL_TX
+set_location_assignment PIN_N1 -to BUZZER
 set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to BUZZER
-set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to BUZZER
-set_location_assignment PIN_N1 -to BUZZERS
-set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to BUZZERS
-set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to BUZZERS
-set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to BUZZERS
-set_instance_assignment -name SLEW_TYPE FAST -to BUZZERS
-set_location_assignment PIN_L20 -to MORTOR
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to BUZZER
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to BUZZER
+set_instance_assignment -name SLEW_TYPE FAST -to BUZZER
+set_location_assignment PIN_B1 -to Coder_A
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to Coder_A
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to Coder_A
+set_location_assignment PIN_J3 -to Coder_B
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to Coder_B
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to Coder_B
+set_location_assignment PIN_W4 -to GPS_RX
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to GPS_RX
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to GPS_RX
+set_location_assignment PIN_Y2 -to GPS_TX
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to GPS_TX
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to GPS_TX
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to GPS_TX
+set_instance_assignment -name SLEW_TYPE FAST -to GPS_TX
+set_location_assignment PIN_N22 -to IMU_RX
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to IMU_RX
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to IMU_RX
+set_location_assignment PIN_N19 -to IMU_TX
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to IMU_TX
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to IMU_TX
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to IMU_TX
+set_instance_assignment -name SLEW_TYPE FAST -to IMU_TX
+set_location_assignment PIN_N3 -to LED1
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to LED1
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to LED1
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to LED1
+set_instance_assignment -name SLEW_TYPE FAST -to LED1
+set_location_assignment PIN_P1 -to LED2
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to LED2
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to LED2
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to LED2
+set_instance_assignment -name SLEW_TYPE FAST -to LED2
+set_location_assignment PIN_P2 -to LED3
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to LED3
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to LED3
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to LED3
+set_instance_assignment -name SLEW_TYPE FAST -to LED3
+set_location_assignment PIN_R22 -to LED4
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to LED4
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to LED4
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to LED4
+set_instance_assignment -name SLEW_TYPE FAST -to LED4
+set_location_assignment PIN_R20 -to LED5
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to LED5
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to LED5
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to LED5
+set_instance_assignment -name SLEW_TYPE FAST -to LED5
+set_location_assignment PIN_N20 -to LED6
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to LED6
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to LED6
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to LED6
+set_instance_assignment -name SLEW_TYPE FAST -to LED6
+set_location_assignment PIN_H21 -to Left_RX
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to Left_RX
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to Left_RX
+set_location_assignment PIN_H22 -to Left_TX
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to Left_TX
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to Left_TX
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to Left_TX
+set_instance_assignment -name SLEW_TYPE FAST -to Left_TX
+set_location_assignment PIN_U20 -to MCU_SCL
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to MCU_SCL
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to MCU_SCL
+set_location_assignment PIN_U22 -to MCU_SDA
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to MCU_SDA
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to MCU_SDA
+set_location_assignment PIN_G20 -to MORTOR
 set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to MORTOR
 set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to MORTOR
 set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to MORTOR
 set_instance_assignment -name SLEW_TYPE FAST -to MORTOR
-set_location_assignment PIN_M20 -to MORTOR_N
+set_location_assignment PIN_E22 -to MORTOR_N
 set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to MORTOR_N
 set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to MORTOR_N
 set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to MORTOR_N
 set_instance_assignment -name SLEW_TYPE FAST -to MORTOR_N
+set_location_assignment PIN_K1 -to OLED_SCL
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to OLED_SCL
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to OLED_SCL
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to OLED_SCL
+set_instance_assignment -name SLEW_TYPE FAST -to OLED_SCL
+set_location_assignment PIN_K2 -to OLED_SDA
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to OLED_SDA
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to OLED_SDA
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to OLED_SDA
+set_instance_assignment -name SLEW_TYPE FAST -to OLED_SDA
+set_location_assignment PIN_AA22 -to PWM3
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to PWM3
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to PWM3
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to PWM3
+set_instance_assignment -name SLEW_TYPE FAST -to PWM3
+set_location_assignment PIN_AA21 -to PWM4
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to PWM4
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to PWM4
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to PWM4
+set_instance_assignment -name SLEW_TYPE FAST -to PWM4
 set_location_assignment PIN_M18 -to PWM_M
 set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to PWM_M
 set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to PWM_M
@@ -25,19 +116,19 @@ set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to PWM_M_N
 set_location_assignment PIN_AA20 -to PWM_R
 set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to PWM_R
 set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to PWM_R
-set_location_assignment PIN_W20 -to PWM_Raidar
-set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to PWM_Raidar
-set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to PWM_Raidar
 set_location_assignment PIN_L4 -to ROUTER
 set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to ROUTER
 set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to ROUTER
 set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to ROUTER
 set_instance_assignment -name SLEW_TYPE FAST -to ROUTER
-set_location_assignment PIN_A2 -to Raidar_PWM
-set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to Raidar_PWM
-set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to Raidar_PWM
-set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to Raidar_PWM
-set_instance_assignment -name SLEW_TYPE FAST -to Raidar_PWM
+set_location_assignment PIN_D22 -to Right_RX
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to Right_RX
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to Right_RX
+set_location_assignment PIN_D21 -to Right_TX
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to Right_TX
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to Right_TX
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to Right_TX
+set_instance_assignment -name SLEW_TYPE FAST -to Right_TX
 set_location_assignment PIN_U1 -to U1
 set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to U1
 set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to U1
@@ -46,36 +137,12 @@ set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to U3
 set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to U3
 set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to U3
 set_instance_assignment -name SLEW_TYPE FAST -to U3
-set_location_assignment PIN_D2 -to UART_RX1
-set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to UART_RX1
-set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to UART_RX1
-set_location_assignment PIN_N22 -to UART_RX2
-set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to UART_RX2
-set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to UART_RX2
-set_location_assignment PIN_B2 -to UART_RX3
-set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to UART_RX3
-set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to UART_RX3
-set_location_assignment PIN_D1 -to UART_TX1
-set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to UART_TX1
-set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to UART_TX1
-set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to UART_TX1
-set_instance_assignment -name SLEW_TYPE FAST -to UART_TX1
-set_location_assignment PIN_N19 -to UART_TX2
-set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to UART_TX2
-set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to UART_TX2
-set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to UART_TX2
-set_instance_assignment -name SLEW_TYPE FAST -to UART_TX2
-set_location_assignment PIN_B1 -to UART_TX3
-set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to UART_TX3
-set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to UART_TX3
-set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to UART_TX3
-set_instance_assignment -name SLEW_TYPE FAST -to UART_TX3
-set_location_assignment PIN_M19 -to USART1_RX
+set_location_assignment PIN_W22 -to USART1_RX
 set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to USART1_RX
 set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to USART1_RX
 set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to USART1_RX
 set_instance_assignment -name SLEW_TYPE FAST -to USART1_RX
-set_location_assignment PIN_AA21 -to USART1_TX
+set_location_assignment PIN_W20 -to USART1_TX
 set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to USART1_TX
 set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to USART1_TX
 set_location_assignment PIN_K17 -to USART2_RX
@@ -94,3 +161,25 @@ set_instance_assignment -name SLEW_TYPE FAST -to USART3_RX
 set_location_assignment PIN_T22 -to USART3_TX
 set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to USART3_TX
 set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to USART3_TX
+set_location_assignment PIN_K3 -to V7
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to V7
+set_instance_assignment -name CURRENT_STRENGTH_NEW 12MA -to V7
+set_instance_assignment -name OPEN_DRAIN_OUTPUT OFF -to V7
+set_instance_assignment -name SLEW_TYPE FAST -to V7
+set_location_assignment PIN_M5 -to V8
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to V8
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to V8
+set_location_assignment PIN_AB11 -to clk
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to clk
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to clk
+set_location_assignment PIN_V22 -to control
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to control
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to control
+set_location_assignment PIN_R1 -to rst
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to rst
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to rst
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to rst
+set_location_assignment PIN_R1 -to rstn
+set_instance_assignment -name IO_STANDARD "3.3V LVTTL" -to rstn
+set_instance_assignment -name ENABLE_BUS_HOLD_CIRCUITRY OFF -to rstn
+set_instance_assignment -name WEAK_PULL_UP_RESISTOR ON -to rstn

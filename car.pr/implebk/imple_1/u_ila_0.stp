@@ -1,0 +1,24 @@
+<trigger_info>
+    <trigger_mode>
+        <clock name="clk"/>
+        <sample depth="131072"/>
+        <trigger type="circular"/>
+        <trigger position="center"/>
+    </trigger_mode>
+    <triggerdata_input_vec>
+        <wire group="0" name="U1" type=""/>
+        <wire group="0" name="U3" type=""/>
+    </triggerdata_input_vec>
+    <trigger_input_vec/>
+    <data_input_vec/>
+    <trigger_condition/>
+    <Dashboard>
+        <item showName="U1" isAnalog="0" customName="U1" name="U1" decimal="0" color="#00ff04" nameType="1"/>
+        <item showName="U3" isAnalog="0" customName="U3" name="U3" decimal="0" color="#00ff04" nameType="1"/>
+    </Dashboard>
+    <TriggerSetup>
+        <item Value="X" Radix="[B]" name="U1" show="1"/>
+        <item Value="X" Radix="[B]" name="U3" show="1"/>
+    </TriggerSetup>
+    <Marker/>
+</trigger_info>

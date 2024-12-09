@@ -1,3 +1,0 @@
-source $vecdir/car.srcs/constrs_1/new/car.edc
-read_sdc $vecdir/car.srcs/constrs_1/new/car.edc
-set_global_assignment -name TARGET_CONSTRAINT_FILE $vecdir/car.srcs/constrs_1/new/car.edc
